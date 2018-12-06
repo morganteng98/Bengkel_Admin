@@ -1,0 +1,24 @@
+Mengupload file gambar
+Menamapilkan file gambar
+
+Bahan kurang:
+Wallpaper login
+Wallpaper dasboard beranda
+
+ketika di klik servis ringan maka akan muncul id harga servis dll
+ketika di klik id servis maka akan muncul jenis servisIPN
+antrian ridak perlu dihapsu
+
+mendokumentasi daliy scrum
+akhr=ir sprint
+apliksasi ajdi dan bagus
+
+KMIPN
+
+
+
+
+Fungsi serching???
+
+
+Session?
